@@ -1,0 +1,185 @@
+Time: 0
+Waiting Clients: (101,3,4)  (106,3,3)  (103,5,3)  (104,5,3)  (105,5,3)  (100,6,4)  (102,8,3) 
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 1
+Waiting Clients: (101,3,4)  (106,3,3)  (103,5,3)  (104,5,3)  (105,5,3)  (100,6,4)  (102,8,3) 
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 2
+Waiting Clients: (101,3,4)  (106,3,3)  (103,5,3)  (104,5,3)  (105,5,3)  (100,6,4)  (102,8,3) 
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 3
+Waiting Clients: (103,5,3)  (104,5,3)  (105,5,3)  (100,6,4)  (102,8,3) 
+Queue 1:  (101,3,4) 
+Queue 2:  (106,3,3) 
+
+
+
+Time: 4
+Waiting Clients: (103,5,3)  (104,5,3)  (105,5,3)  (100,6,4)  (102,8,3) 
+Queue 1:  (101,3,4) 
+Queue 2:  (106,3,3) 
+
+
+
+Time: 5
+Waiting Clients: (100,6,4)  (102,8,3) 
+Queue 1:  (101,3,4)  (103,5,5)  (105,5,8) 
+Queue 2:  (106,3,3)  (104,5,4) 
+
+
+
+Time: 6
+Waiting Clients: (102,8,3) 
+Queue 1:  (101,3,4)  (103,5,5)  (105,5,8) 
+Queue 2:  (104,5,4)  (100,6,7) 
+
+
+
+Time: 7
+Waiting Clients: (102,8,3) 
+Queue 1:  (103,5,5)  (105,5,8) 
+Queue 2:  (104,5,4)  (100,6,7) 
+
+
+
+Time: 8
+Waiting Clients:
+Queue 1:  (103,5,5)  (105,5,8)  (102,8,8) 
+Queue 2:  (104,5,4)  (100,6,7) 
+
+
+
+Time: 9
+Waiting Clients:
+Queue 1:  (103,5,5)  (105,5,8)  (102,8,8) 
+Queue 2:  (100,6,7) 
+
+
+
+Time: 10
+Waiting Clients:
+Queue 1:  (105,5,8)  (102,8,8) 
+Queue 2:  (100,6,7) 
+
+
+
+Time: 11
+Waiting Clients:
+Queue 1:  (105,5,8)  (102,8,8) 
+Queue 2:  (100,6,7) 
+
+
+
+Time: 12
+Waiting Clients:
+Queue 1:  (105,5,8)  (102,8,8) 
+Queue 2:  (100,6,7) 
+
+
+
+Time: 13
+Waiting Clients:
+Queue 1:  (102,8,8) 
+Queue 2: closed
+
+
+
+Time: 14
+Waiting Clients:
+Queue 1:  (102,8,8) 
+Queue 2: closed
+
+
+
+Time: 15
+Waiting Clients:
+Queue 1:  (102,8,8) 
+Queue 2: closed
+
+
+
+Time: 16
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 17
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 18
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 19
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 20
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 21
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 22
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 23
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 24
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Time: 25
+Waiting Clients:
+Queue 1: closed
+Queue 2: closed
+
+
+
+Average waiting time 4.571428571428571
+Average service time 3.2857142857142856
+Peek Hour 5.0
